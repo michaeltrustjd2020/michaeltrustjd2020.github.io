@@ -1,0 +1,18 @@
+[
+    {
+        "File":  "sitemap-all.xml",
+        "Sha256":  "5968FEBAC50A1D67E23C1A387028578969E29D87F53517B3047CFDCA57188E4C"
+    },
+    {
+        "File":  "sitemap-blog.xml",
+        "Sha256":  "3D7E20F9124064DDA05ABE86D612C23ECC160168AFF65B00A012295684EA13D2"
+    },
+    {
+        "File":  "sitemap-pages.xml",
+        "Sha256":  "3A5805BCB19D7E3853D7064C5B2FC762428355079FB0BBD56BDCDD6D86C89F30"
+    },
+    {
+        "File":  "sitemap.xml",
+        "Sha256":  "1BF7DC99EFD87813282BE9E0B7B89A3F389FD005FC756A6CBDD9E355B2AA013C"
+    }
+]
