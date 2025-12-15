@@ -1,17 +1,15 @@
-
-
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://michaeltrustjd2020.github.io/sitemap-pages.xml</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-15</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://michaeltrustjd2020.github.io/sitemap-blog.xml</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-15</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://michaeltrustjd2020.github.io/sitemap-all.xml</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-15</lastmod>
   </sitemap>
 </sitemapindex>
